@@ -4,7 +4,7 @@ The [Future of Families and Child Wellbeing Study (FFCWS)](https://ffcws.princet
 
 The Future of Families Sleep Sub-Study (Year 15 Wave 6) collected wrist-worn actigraphy sleep data from adolescents (14 to 18 years old) for one week (7 days) of a national diverse longitudinal birth cohort. Participants also completed a daily diary in which they answered questions about their mood, diet, physical activity, and screen use.
 
-The NSRR FFCWS Sleep Actigraphy Dataset includes wrist-worn actigraphy data and daily diary from 923 participants (with at least 1 valid day of actigraphy data across a total of n = 5,491 daily actigraphy observations).
+The NSRR FFCWS Sleep Actigraphy Dataset includes wrist-worn actigraphy data and daily diary from 923 participants with at least 1 valid day of actigraphy data across a total of n = 5,491 daily actigraphy observations.
 
 ## Methods
 
@@ -36,11 +36,41 @@ All personally identifiable information (PII) has been removed from the data fil
 
 ## Data overview
 
-### Actigraphy epoch-by-epoch files
+### Covariate/phenotype datasets (CSV)
 
-### Sleep diary
+The covariate dataset files (**ffcws-dataset-0.1.0.csv** and **ffcws-harmonized-dataset-0.1.0.csv**) contain 923 rows respectively. The first column ([idnum](:variables_path:/idnum)) is the unique FFCWS subject identifier. The **ffcws-dataset** file is a combination of two (2) [original datasets (ffcws_yr15_demo_20240806 and ACT_wave62024v2)](:files_path:/original).
 
-The FFCWS sleep diary dataset included 22 questions labeled using k6sd_q1-22, which participants answered for 7 days.
+The dataset columns are described in the accompanying data dictionary files. The variables data dictionary file includes column names (id), labels (display names), descriptions, and other metadata. Categorical variables also include an associated "domain" (e.g., 1=Male, 2=Female), which are described in the domains data dictionary file. 
+
+The history of the covariate dataset and data dictionary files have been tracked on GitHub (https://github.com/nsrr/ffcws-data-dictionary). 
+
+The harmonized-dataset contains many of the most frequently used demographic and sleep variables. These variables were curated by the NSRR team. Key variables include:
+
+  <table>
+    <tr><td><b>Variable</b></td><td><b>Label</b></td></tr>
+    <tr><td><a href=":variables_path:/nsrr_age">nsrr_age</a></td><td>Subject age</td></tr>
+    <tr><td><a href=":variables_path:/nsrr_sex">nsrr_sex</a></td><td>Subject sex</td></tr> 
+    <tr><td><a href=":variables_path:/nsrr_race">nsrr_race</a></td><td>Subject race</td></tr> 
+  </table>
+
+### Original demographic and actigraphy data files
+
+The [original demographic and actigraphy data files](:files_path/original) are  available for download. 
+
+  <table>
+    <tr><td><b>Dataset</b></td><td><b>Description</b></td></tr>
+    <tr><td>ffcws_yr15_demo_20240806</td><td>Demographics (also available [here](https://sleepdata.org/datasets/ffcws/variables?folder=Sociodemographics))</td></tr>
+    <tr><td>ACT_wave62024v2</td><td>Summary actigraphy results</td></tr> 
+    <tr><td>dailysleep_wave6</td><td>Daily actigraphy and diary data</td></tr> 
+    <tr><td>FFCWS_YR15_stacked_idnum</td><td>Epoch-by-epoch (30-second) actigraphy data</td></tr> 
+  </table>
+
+The [FFCWS public data documentation website](https://ffcws.princeton.edu/data-and-documentation/public-data-documentation) includes a comprehensive description of the data collection methods and available data. 
+
+Actigraphy (Sleep Study) documentation can be found here: 
+
+- https://ffcws.princeton.edu/sites/g/files/toruqf4356/files/documents/ff_age_15_sleep_data_documentation_20220128.pdf
+- https://ffcws.princeton.edu/sites/g/files/toruqf4356/files/documents/FF_Y15_DailyActigraphy-diary_documentation_2023.09.07.pdf
 
 ## Access and usage restrictions
 
@@ -87,6 +117,8 @@ Users must include the following text in any Acknowledgements:
 
 ## References
 
+- FFCWS Princeton University website: https://ffcws.princeton.edu/
+- FFCWS Daily Actigraphy and Diary documentation: https://ffcws.princeton.edu/sites/g/files/toruqf4356/files/documents/FF_Y15_DailyActigraphy-diary_documentation_2023.09.07.pdf
 - FFCWS on the National Sleep Research Resource (NSRR): https://sleepdata.org/datasets/ffcws/
 - FFCWS GitHub Data Dictionary: http://github.com/nsrr/ffcws-data-dictionary
 - FFCWS GitHub Documentation: https://github.com/nsrr/ffcws-documentation
