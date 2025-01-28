@@ -38,7 +38,7 @@ All personally identifiable information (PII) has been removed from the data fil
 
 ### Covariate/phenotype datasets (CSV)
 
-The covariate dataset files (**ffcws-dataset-0.1.0.csv** and **ffcws-harmonized-dataset-0.1.0.csv**) contain 923 rows respectively. The first column ([idnum](:variables_path:/idnum)) is the unique FFCWS subject identifier. The **ffcws-dataset** file is a combination of two (2) [original datasets (ffcws_yr15_demo_20240806 and ACT_wave62024v2)](:files_path:/original).
+The [covariate dataset files](:files_path:/datasets) (**ffcws-dataset-0.1.0.csv** and **ffcws-harmonized-dataset-0.1.0.csv**) contain 923 rows respectively. The first column ([idnum](:variables_path:/idnum)) is the unique FFCWS subject identifier. The **ffcws-dataset** file is a combination of two (2) [original datasets (ffcws_yr15_demo_20240806 and ACT_wave62024v2)](:files_path:/original).
 
 The dataset columns are described in the accompanying data dictionary files. The variables data dictionary file includes column names (id), labels (display names), descriptions, and other metadata. Categorical variables also include an associated "domain" (e.g., 1=Male, 2=Female), which are described in the domains data dictionary file. 
 
@@ -118,7 +118,6 @@ Users must include the following text in any Acknowledgements:
 ## References
 
 - FFCWS Princeton University website: https://ffcws.princeton.edu/
-- FFCWS Daily Actigraphy and Diary documentation: https://ffcws.princeton.edu/sites/g/files/toruqf4356/files/documents/FF_Y15_DailyActigraphy-diary_documentation_2023.09.07.pdf
 - FFCWS on the National Sleep Research Resource (NSRR): https://sleepdata.org/datasets/ffcws/
 - FFCWS GitHub Data Dictionary: http://github.com/nsrr/ffcws-data-dictionary
 - FFCWS GitHub Documentation: https://github.com/nsrr/ffcws-documentation
