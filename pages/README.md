@@ -1,6 +1,6 @@
 ## About
 
-The Future of Families and Child Wellbeing Study (FFCWS) is an NIH-sponsored collaborative study that relied on a stratified, multistage sampling method encompassing 4,898 children born between 1998 and 2000. The study deliberately oversampled births to unmarried mothers at a ratio of 3 to 1, which ensured a comprehensive national representation of Black, Hispanic, and low-income families within the cohort. To date, there have been 7 waves of data collection at approximately ages 1, 3, 5, 9, 15, and 22, with the latest round commencing in late 2020. 
+The [Future of Families and Child Wellbeing Study (FFCWS)](https://ffcws.princeton.edu/) is an NIH-sponsored collaborative study that relied on a stratified, multistage sampling method encompassing 4,898 children born between 1998 and 2000. The study deliberately oversampled births to unmarried mothers at a ratio of 3 to 1, which ensured a comprehensive national representation of Black, Hispanic, and low-income families within the cohort. To date, there have been 7 waves of data collection at approximately ages 1, 3, 5, 9, 15, and 22, with the latest round commencing in late 2020. 
 
 The Future of Families Sleep Sub-Study (Year 15 Wave 6) collected wrist-worn actigraphy sleep data from adolescents (14 to 18 years old) for one week (7 days) of a national diverse longitudinal birth cohort. Participants also completed a daily diary in which they answered questions about their mood, diet, physical activity, and screen use.
 
@@ -38,6 +38,9 @@ All personally identifiable information (PII) has been removed from the data fil
 
 ### Actigraphy epoch-by-epoch files
 
+### Sleep diary
+
+The FFCWS sleep diary dataset included 22 questions labeled using k6sd_q1-22, which participants answered for 7 days.
 
 ## Access and usage restrictions
 
@@ -49,10 +52,32 @@ When using this dataset, users must cite the following:
 
 > [Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
 > 
+> [Master L, Nye RT, Lee S, Nahmod NG, Mariani S, Hale L, Buxton OM. Bidirectional, Daily Temporal Associations between Sleep and Physical Activity in Adolescents. Sci Rep. 2019 May 22;9(1):7732. doi: 10.1038/s41598-019-44059-9. PMID: 31118441; PMCID: PMC6531611.](https://pubmed.ncbi.nlm.nih.gov/31118441/)
 
 Users must include the following text in any Acknowledgements:
 
-> The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002).
+> The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002). Research reported in this publication was supported by the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) of the National Institutes of Health under award numbers R01HD073352 (to LH), R01HD36916, R01HD39135, and R01 HD40421, as well as a consortium of private foundations.
+
+<details>
+<summary>Other key FFCWS citations (click to expand)</summary>
+
+<ul>
+	<li>
+		[Master L, Nahmod NG, Mathew GM, Hale L, Chang AM, Buxton OM. Why so slangry (sleepy and angry)? Shorter sleep duration and lower sleep efficiency predict worse next-day mood in adolescents. J Adolesc. 2023 Aug;95(6):1140-1151. doi: 10.1002/jad.12182. Epub 2023 May 3. PMID: 37138384; PMCID: PMC10524335.](https://pubmed.ncbi.nlm.nih.gov/37138384/)
+	<li>
+		[Mathew GM, Reichenberger DA, Master L, Buxton OM, Chang AM, Hale L. Too Jittery to Sleep? Temporal Associations of Actigraphic Sleep and Caffeine in Adolescents. Nutrients. 2021 Dec 23;14(1):31. doi: 10.3390/nu14010031. PMID: 35010906; PMCID: PMC8746933.](https://pubmed.ncbi.nlm.nih.gov/35010906/)
+	<li>
+		[Mathew GM, Reichenberger DA, Master L, Buxton OM, Hale L, Chang AM. Worse sleep health predicts less frequent breakfast consumption among adolescents in a micro-longitudinal analysis. Int J Behav Nutr Phys Act. 2022 Jun 17;19(1):70. doi: 10.1186/s12966-022-01265-5. PMID: 35715858; PMCID: PMC9205101.](https://pubmed.ncbi.nlm.nih.gov/35715858/)
+	<li>
+		[Mathew GM, Reichenberger DA, Master L, Buxton OM, Chang AM, Hale L. Actigraphic Sleep Variability is Associated With Lower Positive Mood in Adolescents. J Adolesc Health. 2023 Sep;73(3):478-485. doi: 10.1016/j.jadohealth.2023.04.019. Epub 2023 Jul 6. PMID: 37410005; PMCID: PMC10524712.](https://pubmed.ncbi.nlm.nih.gov/37410005/)
+	<li>
+		[Nahmod NG, Lee S, Buxton OM, Chang AM, Hale L. High school start times after 8:30 am are associated with later wake times and longer time in bed among teens in a national urban cohort study. Sleep Health. 2017 Dec;3(6):444-450. doi: 10.1016/j.sleh.2017.09.004. Epub 2017 Oct 16. PMID: 29157638; PMCID: PMC5726563.](https://pubmed.ncbi.nlm.nih.gov/29157638/)
+	<li>
+		[Nahmod NG, Lee S, Master L, Chang AM, Hale L, Buxton OM. Later high school start times associated with longer actigraphic sleep duration in adolescents. Sleep. 2019 Feb 1;42(2):zsy212. doi: 10.1093/sleep/zsy212. PMID: 30395345; PMCID: PMC6369724.](https://pubmed.ncbi.nlm.nih.gov/30395345/)
+
+</ul>
+
+</details>
 
 ## Changelog
 
