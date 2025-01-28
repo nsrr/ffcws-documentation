@@ -60,20 +60,20 @@ Users must include the following text in any Acknowledgements:
 
 <details>
 <summary>Other key FFCWS citations (click to expand)</summary>
-
+<br>
 <ul>
 	<li>
-		[Master L, Nahmod NG, Mathew GM, Hale L, Chang AM, Buxton OM. Why so slangry (sleepy and angry)? Shorter sleep duration and lower sleep efficiency predict worse next-day mood in adolescents. J Adolesc. 2023 Aug;95(6):1140-1151. doi: 10.1002/jad.12182. Epub 2023 May 3. PMID: 37138384; PMCID: PMC10524335.](https://pubmed.ncbi.nlm.nih.gov/37138384/)
+		<a href="https://pubmed.ncbi.nlm.nih.gov/37138384/" target="_blank">Master L, Nahmod NG, Mathew GM, Hale L, Chang AM, Buxton OM. Why so slangry (sleepy and angry)? Shorter sleep duration and lower sleep efficiency predict worse next-day mood in adolescents. J Adolesc. 2023 Aug;95(6):1140-1151. doi: 10.1002/jad.12182. Epub 2023 May 3. PMID: 37138384; PMCID: PMC10524335.</a>
 	<li>
-		[Mathew GM, Reichenberger DA, Master L, Buxton OM, Chang AM, Hale L. Too Jittery to Sleep? Temporal Associations of Actigraphic Sleep and Caffeine in Adolescents. Nutrients. 2021 Dec 23;14(1):31. doi: 10.3390/nu14010031. PMID: 35010906; PMCID: PMC8746933.](https://pubmed.ncbi.nlm.nih.gov/35010906/)
+		<a href="https://pubmed.ncbi.nlm.nih.gov/35010906/" target="_blank">Mathew GM, Reichenberger DA, Master L, Buxton OM, Chang AM, Hale L. Too Jittery to Sleep? Temporal Associations of Actigraphic Sleep and Caffeine in Adolescents. Nutrients. 2021 Dec 23;14(1):31. doi: 10.3390/nu14010031. PMID: 35010906; PMCID: PMC8746933.
 	<li>
-		[Mathew GM, Reichenberger DA, Master L, Buxton OM, Hale L, Chang AM. Worse sleep health predicts less frequent breakfast consumption among adolescents in a micro-longitudinal analysis. Int J Behav Nutr Phys Act. 2022 Jun 17;19(1):70. doi: 10.1186/s12966-022-01265-5. PMID: 35715858; PMCID: PMC9205101.](https://pubmed.ncbi.nlm.nih.gov/35715858/)
+		<a href="https://pubmed.ncbi.nlm.nih.gov/35715858/" target="_blank">Mathew GM, Reichenberger DA, Master L, Buxton OM, Hale L, Chang AM. Worse sleep health predicts less frequent breakfast consumption among adolescents in a micro-longitudinal analysis. Int J Behav Nutr Phys Act. 2022 Jun 17;19(1):70. doi: 10.1186/s12966-022-01265-5. PMID: 35715858; PMCID: PMC9205101.</a>
 	<li>
-		[Mathew GM, Reichenberger DA, Master L, Buxton OM, Chang AM, Hale L. Actigraphic Sleep Variability is Associated With Lower Positive Mood in Adolescents. J Adolesc Health. 2023 Sep;73(3):478-485. doi: 10.1016/j.jadohealth.2023.04.019. Epub 2023 Jul 6. PMID: 37410005; PMCID: PMC10524712.](https://pubmed.ncbi.nlm.nih.gov/37410005/)
+		<a href="https://pubmed.ncbi.nlm.nih.gov/37410005/" target="_blank">Mathew GM, Reichenberger DA, Master L, Buxton OM, Chang AM, Hale L. Actigraphic Sleep Variability is Associated With Lower Positive Mood in Adolescents. J Adolesc Health. 2023 Sep;73(3):478-485. doi: 10.1016/j.jadohealth.2023.04.019. Epub 2023 Jul 6. PMID: 37410005; PMCID: PMC10524712.</a>
 	<li>
-		[Nahmod NG, Lee S, Buxton OM, Chang AM, Hale L. High school start times after 8:30 am are associated with later wake times and longer time in bed among teens in a national urban cohort study. Sleep Health. 2017 Dec;3(6):444-450. doi: 10.1016/j.sleh.2017.09.004. Epub 2017 Oct 16. PMID: 29157638; PMCID: PMC5726563.](https://pubmed.ncbi.nlm.nih.gov/29157638/)
+		<a href="https://pubmed.ncbi.nlm.nih.gov/29157638/" target="_blank">Nahmod NG, Lee S, Buxton OM, Chang AM, Hale L. High school start times after 8:30 am are associated with later wake times and longer time in bed among teens in a national urban cohort study. Sleep Health. 2017 Dec;3(6):444-450. doi: 10.1016/j.sleh.2017.09.004. Epub 2017 Oct 16. PMID: 29157638; PMCID: PMC5726563.</a>
 	<li>
-		[Nahmod NG, Lee S, Master L, Chang AM, Hale L, Buxton OM. Later high school start times associated with longer actigraphic sleep duration in adolescents. Sleep. 2019 Feb 1;42(2):zsy212. doi: 10.1093/sleep/zsy212. PMID: 30395345; PMCID: PMC6369724.](https://pubmed.ncbi.nlm.nih.gov/30395345/)
+		<a href="https://pubmed.ncbi.nlm.nih.gov/30395345/" target="_blank">Nahmod NG, Lee S, Master L, Chang AM, Hale L, Buxton OM. Later high school start times associated with longer actigraphic sleep duration in adolescents. Sleep. 2019 Feb 1;42(2):zsy212. doi: 10.1093/sleep/zsy212. PMID: 30395345; PMCID: PMC6369724.</a>
 
 </ul>
 
