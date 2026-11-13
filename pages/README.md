@@ -78,7 +78,7 @@ When using this dataset, users must cite the following:
 
 Users must include the following text in any Acknowledgements:
 
-> The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002). Research reported in this publication was supported by the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) of the National Institutes of Health under award numbers R01HD073352 (to LH), R01HD36916, R01HD39135, and R01 HD40421, as well as a consortium of private foundations.
+> The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002, 75N92025R00007). Research reported in this publication was supported by the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) of the National Institutes of Health under award numbers R01HD073352 (to LH), R01HD36916, R01HD39135, and R01 HD40421, as well as a consortium of private foundations.
 
 <details>
 <summary>Other key FFCWS citations (click to expand)</summary>
